@@ -26,6 +26,7 @@ Then run _main.py_ with the desired arguments. You can see all the possible argu
 ### Authors
  - Chaïmaa Kadaoui
  - [Rachid Riad](https://rachine.github.io/)
+ - LiuYiwen(https://github.com/CaptainEven/)
 
 
 ### References
